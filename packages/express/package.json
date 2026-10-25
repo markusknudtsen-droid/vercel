@@ -39,7 +39,7 @@
     "@vercel/build-utils": "workspace:*",
     "execa": "3.2.0",
     "jest-junit": "16.0.0",
-    "vite": "^5.1.6",
+    "vite": "^6.4.4",
     "vitest": "^2.0.1"
   }
 }
