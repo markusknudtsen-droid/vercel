@@ -28,13 +28,13 @@
     "async-listen": "3.0.0",
     "open": "8.4.0",
     "xdg-app-paths": "5",
-    "zod": "4.1.11"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/node": "20.11.0",
     "memfs": "4.14.0",
     "typescript": "5.9.2",
-    "vite": "7.1.7",
+    "vite": "6.4.5",
     "vitest": "2.1.4"
   },
   "ci-cd": {
